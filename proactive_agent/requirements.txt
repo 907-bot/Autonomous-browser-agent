@@ -1,0 +1,25 @@
+# Proactive Agent Dependencies
+# ===========================
+
+# Core (Required)
+pystray>=0.19.5
+Pillow>=10.2.0
+
+# UI Framework
+customtkinter>=5.2.1
+
+# Notifications
+plyer>=2.1.0
+
+# Global Hotkeys
+keyboard>=0.13.9
+
+# Browser Automation
+playwright>=1.41.0
+
+# Logging
+loguru>=0.7.2
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
