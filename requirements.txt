@@ -1,5 +1,4 @@
 playwright==1.41.0
-asyncio-contextmanager==1.0.0
 pydantic==2.5.3
 
 # MAYINI Framework
